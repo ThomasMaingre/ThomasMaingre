@@ -10,7 +10,7 @@
 
 ### Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio sur mon profil.
 
-> N'hésitez pas à cliquer <a href="https://github.com/ThomasMaingre?tab=repositories">ici</a> pour découvrir tous mes projets !
+> N'hésitez pas à cliquer <a href="https://github.com/ThomasMaingre?tab=repositories">ICI</a> pour découvrir tous mes projets !
 
 ### Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.
 
