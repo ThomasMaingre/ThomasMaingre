@@ -6,7 +6,7 @@
 
 ### Cette page est un aperçu de mes projets et de mes compétences techniques. 
 
-#### Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio.
+### Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio sur mon profil.
 
 <!--
 **ThomasMaingre/ThomasMaingre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
