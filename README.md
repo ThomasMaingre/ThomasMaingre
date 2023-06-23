@@ -2,7 +2,7 @@
 
 ## Bienvenue sur ma page !
 
-## Je suis à la recherche d'une alternance débutant le 18 Septembre 2023 pour ma deuxième année à la Web@cadémie finissant le 15 Novembre 2024, à un rythme de 3 semaines en entreprise et une semaine à l'institut de la formation.
+## Je suis à la recherche d'une alternance de 14 mois débutant le 18 Septembre 2023 pour ma deuxième année à la Web@cadémie, à un rythme de 3 semaines en entreprise et une semaine à l'institut de la formation.
 
 ### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web. 
 
