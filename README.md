@@ -2,11 +2,11 @@
 
 ## Bienvenue sur ma page !
 
-### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que jeune Développeur Web. 
+### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web. 
 
 ### Cette page est un aperçu de mes projets et de mes compétences techniques. 
 
-
+#### Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio.
 
 <!--
 **ThomasMaingre/ThomasMaingre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
