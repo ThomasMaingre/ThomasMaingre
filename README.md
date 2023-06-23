@@ -10,6 +10,8 @@
 
 ### Vous pouvez retrouver un lien vers mon LinkedIn ainsi que mon Portfolio sur mon profil.
 
+> N'hésitez pas à cliquer sur Repository en haut à gauche pour découvrir tous mes projets !
+
 ### Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.
 
 <a href="https://drive.google.com/file/d/1TN1I3G_kLCe7RC7aGT977iQiVmppmObO/view">Télécharger mon CV</a>
