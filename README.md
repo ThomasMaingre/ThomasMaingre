@@ -2,7 +2,7 @@
 
 ## Bienvenue sur ma page !
 
-## Je suis à la recherche d'une alternance de 14 mois débutant le 18 Septembre 2023 pour ma deuxième année à la Web@cadémie, avec un rythme de 3 semaines en entreprise et une semaine à l'institut de la formation.
+## Je suis alternant dans l'agence E+P sur Marseille afin de valider mon Bac +2 à l'école Web@cademy d'Epitech Marseille !
 
 ### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web. 
 
