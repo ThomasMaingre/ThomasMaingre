@@ -2,7 +2,7 @@
 
 ## Bienvenue sur ma page !
 
-## Je suis alternant dans l'agence E+P sur Marseille afin de valider mon Bac +2 à l'école Web@cademy d'Epitech Marseille !
+## Actuellement en fin de formation BAC+2 à la Web@cademie d'Epitech !
 
 ### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web. 
 
