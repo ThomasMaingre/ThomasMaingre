@@ -14,4 +14,4 @@
 
 ### Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.
 
-<a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link" target="_blank">Télécharger mon CV</a>
+<a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Télécharger mon CV</a>
