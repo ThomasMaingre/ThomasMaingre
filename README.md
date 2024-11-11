@@ -14,7 +14,7 @@
 
 ### Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.
 
-<a href="https://drive.google.com/file/d/1TN1I3G_kLCe7RC7aGT977iQiVmppmObO/view">Télécharger mon CV</a>
+<a href="https://drive.google.com/drive/u/0/home" target="_blank">Télécharger mon CV</a>
 
 <!--
 **ThomasMaingre/ThomasMaingre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
