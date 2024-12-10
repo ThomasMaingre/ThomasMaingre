@@ -2,7 +2,7 @@
 
 ## Bienvenue sur ma page !
 
-## Actuellement en fin de formation BAC+2 à la Web@cademie d'Epitech !
+## Actuellement en début de formation en Bac+3 à Doranco.
 
 ### Je suis ravi de vous présenter ma page GitHub, qui reflète mon parcours en tant que Développeur Web. 
 
