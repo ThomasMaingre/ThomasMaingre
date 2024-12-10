@@ -30,7 +30,7 @@
 <table align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <thead>
     <tr style="background-color: #f5f5f5;">
-      <th style="padding: 15px;">Outil</th>
+      <th style="padding: 15px;">Outils</th>
       <th style="padding: 15px;">Développement Front-end</th>
       <th style="padding: 15px;">Développement Back-end</th>
     </tr>
