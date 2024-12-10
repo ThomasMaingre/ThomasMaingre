@@ -38,11 +38,11 @@
   <tbody>
     <tr>
       <td style="padding: 15px; vertical-align: top;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="Bash" title="Bash" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" title="Docker" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=wordpress" width="30" height="30" alt="Wordpress" title="Wordpress" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Figma" title="Figma" />     
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" title="Bash" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="Wordpress" title="Wordpress" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma" />     
       </td>
       <td style="padding: 15px; vertical-align: top;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />&nbsp;
