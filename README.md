@@ -70,7 +70,7 @@
 
 <br/>
 
-<h4>Vous pouvez retrouver un lien vers mon <a href="https://www.linkedin.com/in/thomas-maingre/">LinkedIn</a> ainsi que mon <a href="thomasmaingre.com">Portfolio</a> sur mon profil.</h4>
+<h4>Vous pouvez retrouver un lien vers mon <a href="https://www.linkedin.com/in/thomas-maingre/">LinkedIn</a> ainsi que mon <a href="https://thomasmaingre.com">Portfolio</a> sur mon profil.</h4>
 
 <h4>Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.</h4>
 
