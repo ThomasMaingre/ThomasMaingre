@@ -16,7 +16,7 @@
 
 <br/>
 
-<h4>Je suis étudiant en alternance auprès de l'entreprise <a href="https://pharmaplusdigital.com/">PharmaPlus Digital</a> situé sur Marseille (13), avec l'école <a href="https://www.doranco.fr/">Doranco</a> afin de devenir concepteur - développeur d'application web💻</h4>
+<h4>Je suis étudiant en alternance auprès de l'entreprise <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a> situé sur Marseille (13), avec l'école <a href="https://www.doranco.fr/" target="_blank">Doranco</a> afin de devenir concepteur - développeur d'application web💻</h4>
 
 <h4>Je suis un ancien boulanger en reconversion professionnelle, passionné de sport automobile/moto 🏎️ 🏍️, nature 🌱, animaux 🦁 et padel 🎾</h4>
 
@@ -62,7 +62,7 @@
   </tbody>
 </table>
 
-<h4>Cliquer <a href="https://github.com/ThomasMaingre?tab=repositories">ICI</a> pour découvrir tous mes projets !</h4>
+<h4>Cliquer <a href="https://github.com/ThomasMaingre?tab=repositories" target="_blank">ICI</a> pour découvrir tous mes projets !</h4>
 
 <br/>
 
@@ -70,10 +70,10 @@
 
 <br/>
 
-<h4>Vous pouvez retrouver un lien vers mon <a href="https://www.linkedin.com/in/thomas-maingre/">LinkedIn</a> ainsi que mon <a href="https://thomasmaingre.com">Portfolio</a> sur mon profil.</h4>
+<h4>Vous pouvez retrouver un lien vers mon <a href="https://www.linkedin.com/in/thomas-maingre/" target="_blank">LinkedIn</a> ainsi que mon <a href="https://thomasmaingre.com" target="_blank">Portfolio</a> sur mon profil.</h4>
 
 <h4>Si vous souhaitez me contacter, n'hésitez pas à télécharger mon CV.</h4>
 
-<h4><a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link">Télécharger mon CV</a></h4>
+<h4><a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link" target="_blank">Télécharger mon CV</a></h4>
 
 </div>
