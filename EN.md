@@ -16,7 +16,7 @@
 
 <br/>
 
-<h4>I am a work-study student at <a href="https://pharmaplusdigital.com/">PharmaPlus Digital</a>, located in Marseille (13), and studying at <a href="https://www.doranco.fr/">Doranco</a>, aiming to become an application web designer and developer 💻</h4>
+<h4>I am a work-study student at <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a>, located in Marseille (13), and studying at <a href="https://www.doranco.fr/" target="_blank">Doranco</a>, aiming to become an application web designer and developer 💻</h4>
 
 <h4>I am a former baker undergoing a career change, passionate about motorsport/motorcycle racing 🏎️ 🏍️, nature 🌱, animals 🦁, and padel 🎾</h4>
 
@@ -62,7 +62,7 @@
   </tbody>
 </table>
 
-<h4>Click <a href="https://github.com/ThomasMaingre?tab=repositories">HERE</a> to discover all my projects!</h4>
+<h4>Click <a href="https://github.com/ThomasMaingre?tab=repositories" target="_blank">HERE</a> to discover all my projects!</h4>
 
 <br/>
 
@@ -70,10 +70,10 @@
 
 <br/>
 
-<h4>You can find a link to my <a href="https://www.linkedin.com/in/thomas-maingre/">LinkedIn</a> and my <a href="thomasmaingre.com">Portfolio</a> on my profile.</h4>
+<h4>You can find a link to my <a href="https://www.linkedin.com/in/thomas-maingre/" target="_blank">LinkedIn</a> and my <a href="https://thomasmaingre.com" target="_blank">Portfolio</a> on my profile.</h4>
 
 <h4>If you wish to contact me, feel free to download my resume.</h4>
 
-<h4><a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link">Download my Resume</a></h4>
+<h4><a href="https://drive.google.com/file/d/12HUi6E5sfJJs1bSdgxr6xsmZhET66iTy/view?usp=drive_link" target="_blank">Download my Resume</a></h4>
 
 </div>
