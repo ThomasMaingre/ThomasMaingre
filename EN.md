@@ -38,25 +38,25 @@
   <tbody>
     <tr>
       <td style="padding: 15px; vertical-align: top;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" title="Wordpress" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />     
+        <img src="https://skillicons.dev/icons?i=vscode" width="35" height="35" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=bash" width="35" height="35" alt="Bash" title="Bash" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=docker" width="35" height="35" alt="Docker" title="Docker" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=wordpress" width="35" height="35" alt="Wordpress" title="Wordpress" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Figma" title="Figma" />     
       </td>
       <td style="padding: 15px; vertical-align: top;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap CSS" title="Bootstrap CSS" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML5" title="HTML5" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=css" width="35" height="35" alt="CSS" title="CSS" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=js" width="35" height="35" alt="JavaScript" title="JavaScript" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React" title="React" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" alt="Bootstrap CSS" title="Bootstrap CSS" />&nbsp;
       </td>
       <td style="padding: 15px; vertical-align: top;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />    
+        <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Node.js" title="Node.js" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=php" width="35" height="35" alt="PHP" title="PHP" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL" title="MySQL" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB" title="MongoDB" />    
       </td>
     </tr>
   </tbody>
