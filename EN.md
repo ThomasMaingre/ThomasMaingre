@@ -16,7 +16,7 @@
 
 <br/>
 
-<h4>I am a work-study student at <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a>, located in Marseille (13), and studying at <a href="https://www.doranco.fr/" target="_blank">Doranco</a>, aiming to become an application web designer and developer 💻</h4>
+<h4>I am a work-study student at <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a>, located in Marseille (13), and studying at <a href="https://www.nexa.fr/" target="_blank">Nexa Digital School</a>, aiming to become an application web designer and developer 💻</h4>
 
 <h4>I am a former baker undergoing a career change, passionate about motorsport/motorcycle racing 🏎️ 🏍️, nature 🌱, animals 🦁, and padel 🎾</h4>
 
