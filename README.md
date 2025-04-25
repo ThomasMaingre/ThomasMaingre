@@ -16,7 +16,7 @@
 
 <br/>
 
-<h4>Je suis étudiant en alternance auprès de l'entreprise <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a> situé sur Marseille (13), avec l'école <a href="https://www.doranco.fr/" target="_blank">Doranco</a> afin de devenir concepteur - développeur d'application web💻</h4>
+<h4>Je suis étudiant en alternance auprès de l'entreprise <a href="https://pharmaplusdigital.com/" target="_blank">PharmaPlus Digital</a> situé sur Marseille (13), avec l'école <a href="https://www.nexa.fr/" target="_blank">Nexa Digital School</a> afin de devenir concepteur - développeur d'application web💻</h4>
 
 <h4>Je suis un ancien boulanger en reconversion professionnelle, passionné de sport automobile/moto 🏎️ 🏍️, nature 🌱, animaux 🦁 et padel 🎾</h4>
 
